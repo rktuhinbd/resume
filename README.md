@@ -1,2 +1,2 @@
 # resume
-Checkout my latest resume till now
+Checkout my latest resume
